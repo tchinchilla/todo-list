@@ -1,6 +1,6 @@
 # React + Vite 
 
-# to-do List
+# todo List
 
 Aplicación de lista de tareas "todo list", creada con React y Vite.
 
@@ -14,7 +14,7 @@ git clone https://github.com/tchinchilla/todo-list.git
 2.  **Navegar al directorio del proyecto:**
 Abre tu terminal y navega hasta el directorio del proyecto:
 
-cd .\TU-DIRECTORIO\to-do-list
+cd .\TU-DIRECTORIO\todo-list
 
 3.  **Instalar dependencias:**
 Instala las dependencias del proyecto utilizando `npm`:
@@ -33,6 +33,8 @@ Abre tu navegador y ve a la URL que se muestra en la terminal (generalmente http
 
 **General knowledge**
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+
 
 Currently, two official plugins are available:
 
